@@ -1,3 +1,3 @@
-# es6
+# Es6
 training
 ## Ahmed
